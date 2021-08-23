@@ -1,0 +1,16 @@
+{
+  "name": "brillembot",
+  "version": "1.0.0",
+  "description": "a very informed risk-taking bot for buying and selling NFTs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NFTs",
+    "auction",
+    "offers"
+  ],
+  "author": "Bernardo Henríquez and others",
+  "license": "ISC"
+}
